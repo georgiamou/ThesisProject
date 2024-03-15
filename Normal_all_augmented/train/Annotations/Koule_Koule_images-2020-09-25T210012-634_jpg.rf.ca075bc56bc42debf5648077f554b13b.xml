@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Koule_Koule_images-2020-09-25T210012-634_jpg.rf.ca075bc56bc42debf5648077f554b13b.jpg</filename>
+	<path>Koule_Koule_images-2020-09-25T210012-634_jpg.rf.ca075bc56bc42debf5648077f554b13b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>98</xmin>
+			<xmax>397</xmax>
+			<ymin>203</ymin>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

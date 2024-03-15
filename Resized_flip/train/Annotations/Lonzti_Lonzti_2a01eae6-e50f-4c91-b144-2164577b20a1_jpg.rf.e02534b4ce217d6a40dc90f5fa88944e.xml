@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lonzti_Lonzti_2a01eae6-e50f-4c91-b144-2164577b20a1_jpg.rf.e02534b4ce217d6a40dc90f5fa88944e.jpg</filename>
+	<path>Lonzti_Lonzti_2a01eae6-e50f-4c91-b144-2164577b20a1_jpg.rf.e02534b4ce217d6a40dc90f5fa88944e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Loggia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>117</xmin>
+			<xmax>567</xmax>
+			<ymin>1</ymin>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>

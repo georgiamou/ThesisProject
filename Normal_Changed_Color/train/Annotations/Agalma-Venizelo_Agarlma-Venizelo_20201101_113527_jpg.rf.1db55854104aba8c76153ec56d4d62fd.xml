@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Agalma-Venizelo_Agarlma-Venizelo_20201101_113527_jpg.rf.1db55854104aba8c76153ec56d4d62fd.jpg</filename>
+	<path>Agalma-Venizelo_Agarlma-Venizelo_20201101_113527_jpg.rf.1db55854104aba8c76153ec56d4d62fd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Venizelos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>478</xmin>
+			<xmax>602</xmax>
+			<ymin>80</ymin>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

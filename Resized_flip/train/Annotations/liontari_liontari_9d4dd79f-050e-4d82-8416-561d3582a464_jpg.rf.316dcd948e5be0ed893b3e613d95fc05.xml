@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>liontari_liontari_9d4dd79f-050e-4d82-8416-561d3582a464_jpg.rf.316dcd948e5be0ed893b3e613d95fc05.jpg</filename>
+	<path>liontari_liontari_9d4dd79f-050e-4d82-8416-561d3582a464_jpg.rf.316dcd948e5be0ed893b3e613d95fc05.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Liontaria</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>193</xmin>
+			<xmax>409</xmax>
+			<ymin>376</ymin>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

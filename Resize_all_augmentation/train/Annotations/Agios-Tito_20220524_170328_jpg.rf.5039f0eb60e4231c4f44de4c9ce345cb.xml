@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Agios-Tito_20220524_170328_jpg.rf.5039f0eb60e4231c4f44de4c9ce345cb.jpg</filename>
+	<path>Agios-Tito_20220524_170328_jpg.rf.5039f0eb60e4231c4f44de4c9ce345cb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Agios Titos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>366</xmin>
+			<xmax>905</xmax>
+			<ymin>133</ymin>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

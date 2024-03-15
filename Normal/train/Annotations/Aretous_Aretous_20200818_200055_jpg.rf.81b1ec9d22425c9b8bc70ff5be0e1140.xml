@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aretous_Aretous_20200818_200055_jpg.rf.81b1ec9d22425c9b8bc70ff5be0e1140.jpg</filename>
+	<path>Aretous_Aretous_20200818_200055_jpg.rf.81b1ec9d22425c9b8bc70ff5be0e1140.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aretousa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>378</xmin>
+			<xmax>1281</xmax>
+			<ymin>16</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

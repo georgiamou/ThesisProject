@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>AgiosMina_20220527_171835_jpg.rf.3c2249132d53607526e6ad0a69361aac.jpg</filename>
+	<path>AgiosMina_20220527_171835_jpg.rf.3c2249132d53607526e6ad0a69361aac.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Agios Minas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>325</xmin>
+			<xmax>810</xmax>
+			<ymin>35</ymin>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

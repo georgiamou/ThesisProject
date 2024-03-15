@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>AgiaAikaterin_AgiaAikaterin_AgiaAikaterin_images-1-_jpg.rf.16dbbe6042098d6c61afd20344440a61.jpg</filename>
+	<path>AgiaAikaterin_AgiaAikaterin_AgiaAikaterin_images-1-_jpg.rf.16dbbe6042098d6c61afd20344440a61.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Agia Aikaterini</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>202</xmin>
+			<xmax>1218</xmax>
+			<ymin>1</ymin>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>
